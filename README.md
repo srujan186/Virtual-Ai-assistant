@@ -190,10 +190,6 @@ The assistant includes comprehensive error handling and will provide audio feedb
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - Inspired by Marvel's J.A.R.V.I.S.
